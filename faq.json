@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are your working hours?",
+    "answer": "We are open from 9 AM to 5 PM, Monday to Friday."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can reach us at support@example.com."
+  },
+  {
+    "question": "Do you offer internships?",
+    "answer": "Yes, we offer internships for students and freshers."
+  }
+]
